@@ -56,17 +56,6 @@ The S²KT architecture is composed of several specialized modules designed to ca
 [Dynamic GMM Attention Case Study](./model-case%20study/Dynamic%20GMM%20Attention.md)
 
 
-## 🎨Colorblind-Friendly View (Color4Good)
-
-We recognize the importance of inclusive data visualization. Therefore, we have incorporated a Colorblind-Friendly View to further enhance the accessibility and readability of our results.
-
-### 0️⃣ Ablation
-![ablation](./assets/ablation_Color4good.png)
-
-### 1️⃣ Visualization of Semantic Structure
-
-![kc_semantic|center](./assets/kc_semantic_Color4Good.png)
-
 
 ## 📚Datasets
 
