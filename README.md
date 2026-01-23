@@ -5,7 +5,6 @@
 
 
 
-![overall_framework](./assets/framework.svg)
 
 
 </div>
